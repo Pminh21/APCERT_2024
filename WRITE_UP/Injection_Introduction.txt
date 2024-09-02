@@ -1,0 +1,191 @@
+Inject 00: Countdown (1)
+
+Kính gửi các Tham gia,
+
+Nhóm Điều khiển Bài tập (EXCON) muốn nhấn mạnh các điểm sau đây về bài tập diễn tập.
+
+1. Thời gian và Lịch trình
+
+    Diễn tập APCERT 2024 sẽ bắt đầu trong 30 phút nữa.
+    Thời gian của bài tập, bao gồm thông báo này, là năm (5) giờ.
+
+2. Kịch bản & Injects
+
+    Sẽ có MỘT kịch bản chính với tám (8) inject chính đã được lên lịch trước, cộng thêm các inject động phản hồi theo sự tương tác của Người chơi.
+    Nếu có nghi ngờ về địa chỉ nào cần sử dụng cho thông báo gỡ bỏ, vui lòng tham khảo mục “5. Giao tiếp Kịch bản Diễn tập trong khi Diễn tập” dưới đây, quy định rằng TẤT CẢ giao tiếp đều phải được chuyển đến EXCON qua menu Chat trên nền tảng.
+
+3. Các Người chơi và Người quan sát
+
+    Các Người chơi và Người quan sát nên chuẩn bị đăng nhập với thông tin tài khoản được giao. Vui lòng giữ trực tuyến để kiểm tra các email mới với khoảng thời gian không dài hơn ba (3) phút trong suốt bài tập. Nếu bạn gặp bất kỳ khó khăn nào trong việc đăng nhập vào nền tảng, gửi email, hoặc gặp các vấn đề khác liên quan đến nền tảng, vui lòng tham khảo hướng dẫn sử dụng hoặc liên hệ với first-team@krcert.or.kr.
+
+4. Giao tiếp Diễn tập
+
+    Tất cả email của Người chơi phải được gửi đến EXCON. Nếu bạn có Người quan sát, hãy sao chép (cc) họ vào email. Trong nội dung tin nhắn, sử dụng các thẻ “TO:” và “CC:” để chỉ định các bên bạn muốn gửi đến, nhưng không đánh dấu là THẬT. =>KHÔNG BAO GIỜ<= gửi email đến các tổ chức THẬT =>TẤT CẢ<= các yêu cầu của Người chơi phải được gửi đến EXCON.
+
+    Trong Diễn tập này, bạn sẽ thấy một vai trò gọi là “PANDORA-CERT”. Đây là tên chung ám chỉ tên CSIRT/CERT của bạn. Tất cả các tham chiếu đến “chính phủ” không cụ thể cho bất kỳ quốc gia nào mà nên được hiểu là liên quan đến quyền tài phán của bạn. Tất cả các tham chiếu đến “quốc gia” không cụ thể cho bất kỳ quốc gia nào mà ám chỉ nền kinh tế của khu vực của bạn. Người chơi có thể giả định rằng giao tiếp với “CSIRT” được hướng đến các Người chơi. Địa chỉ email chung cho CSIRT sẽ là xx@csirt.xx
+
+    “PANDORA -CERT” sẽ hoạt động như một THÀNH VIÊN HOẠT ĐỘNG của APCERT hoặc các Người chơi khác từ các đối tác APCERT. Giao tiếp đến và từ “CSIRT” (Người chơi) sẽ qua EXCON.
+
+    MỖI INJECT ĐỀU CÓ MỤC TIÊU RÕ RÀNG. HOÀN THÀNH CÁC NHIỆM VỤ THEO MỤC TIÊU NÀY.
+
+    Nếu cần thiết, bất kỳ yêu cầu tắt máy nào nên được soạn thảo theo kịch bản thực của bạn NHƯNG gửi đến EXCON và KHÔNG gửi đến các tổ chức hoặc cơ quan Internet thực. ĐIỀU NÀY QUAN TRỌNG: Bài tập có thể sử dụng một số thông tin thực tế để làm tăng tính thực tế của bài tập, bao gồm các thực thể có tên thực tế, nhưng chúng KHÔNG THAM GIA vào bài tập và PHẢI KHÔNG được liên hệ.
+
+Các Người chơi được kỳ vọng sẽ thực hiện phân tích các gói tin, nhật ký, mã độc, mẫu email và kỹ thuật phân tích ngược. Được kỳ vọng rằng Người chơi sẽ có phần mềm cần thiết đã được cài đặt sẵn để thực hiện phân tích.
+
+Cảm ơn bạn đã tham gia vào Diễn tập APCERT 2024
+
+APCERT Drill 2024 EXCON
+
+Trả lời "OK" để xác nhận.
+
+Giải thích:
+
+    Thời gian và Lịch trình: Diễn tập sẽ bắt đầu sau 30 phút và kéo dài 5 giờ.
+    Kịch bản & Injects: Sẽ có một kịch bản chính và tám inject chính, cùng với các inject động. Tất cả các giao tiếp phải được gửi qua EXCON và không liên hệ với các tổ chức thực.
+    Người chơi và Người quan sát: Đảm bảo đăng nhập đúng và kiểm tra email thường xuyên. Liên hệ với EXCON nếu gặp vấn đề.
+    Giao tiếp Diễn tập: Tất cả email phải gửi đến EXCON và không gửi đến các tổ chức thực. “PANDORA-CERT” là tên chung cho CSIRT/CERT của bạn.
+    Yêu cầu và Nhiệm vụ: Hoàn thành nhiệm vụ theo mục tiêu của từng inject. Không liên hệ với các thực thể thực ngoài bài tập.
+
+
+
+*****************************************************************************************************************************************************************************
+
+Inject 01: Yêu cầu Hỗ trợ Ban đầu (1)
+
+Kính gửi PANDORA-CERT,
+
+Tôi là Oliver, một quản lý trợ lý tại Nhóm WOOF-IT, chịu trách nhiệm về an ninh thông tin nội bộ.
+
+Viện của chúng tôi nghi ngờ về một sự cố mạng, mặc dù lý do chưa rõ ràng, sau khi nhận báo cáo nội bộ từ một nhân viên sau khi phát hành thông báo bảo mật. Do bản chất của ngành chúng tôi, chúng tôi yêu cầu phải báo cáo cho các bạn. Hiện tại, chúng tôi đã thu thập một số tài liệu và yêu cầu sự hỗ trợ trong việc phân tích chúng, vì chúng tôi có thể không đủ nhân lực để kiểm tra lại các phát hiện, nếu sự cố này hóa ra là quan trọng.
+
+Chúng tôi muốn yêu cầu sự hỗ trợ từ nhóm PANDORA-CERT về vấn đề này. Cảm ơn trước vì sự hợp tác của các bạn trong vấn đề này.
+
+Trân trọng,
+
+Oliver Reece
+Quản lý trợ lý, Nhóm IT
+Viện Nghiên cứu Quốc phòng WOOF
+
+Giải thích:
+
+    Người gửi: Oliver Reece, quản lý trợ lý tại Viện Nghiên cứu Quốc phòng WOOF, đang yêu cầu sự hỗ trợ từ nhóm PANDORA-CERT.
+    Tình hình: Viện của họ nghi ngờ có sự cố mạng sau khi nhận được báo cáo từ một nhân viên, và họ cần sự trợ giúp trong việc phân tích các tài liệu thu thập được.
+    Yêu cầu: Họ yêu cầu nhóm PANDORA-CERT hỗ trợ phân tích các tài liệu vì họ không có đủ nhân lực để kiểm tra lại các phát hiện nếu sự cố nghiêm trọng.
+
+*****************************************************************************************************************************************************************************
+Inject 02: Kiểm tra Các Gói Mạng Cung Cấp để Tìm Anomalies (1)
+
+Kính gửi PANDORA-CERT,
+
+Tôi là Oliver từ Nhóm WOOF-IT. Cảm ơn các bạn đã phản hồi nhanh chóng và hỗ trợ.
+
+Để cung cấp thêm bối cảnh, tôi vừa tham dự một Hội nghị An ninh Mạng Quốc tế, nơi tôi đã biết về một nhóm các tin tặc APT đang nhắm mục tiêu vào các viện nghiên cứu quốc phòng và nghiên cứu khác. Chúng tôi sau đó đã cung cấp thông báo bảo mật thông thường cho các nhân viên của mình. Sau khi nhận được thông báo này, một nhân viên đã báo cáo rằng máy tính của họ thỉnh thoảng bị chậm lại. Mặc dù có thể có nhiều lý do tiềm ẩn khiến một PC bị chậm, với tính chất đặc thù của viện chúng tôi, yêu cầu pháp lý về báo cáo, và các hoạt động gần đây của các nhóm APT, chúng tôi tin rằng cần phải phân tích thêm.
+
+Để điều tra thêm, chúng tôi đã thu thập các tài liệu từ một PC bị ảnh hưởng, nhưng chúng tôi vẫn đang điều tra phạm vi của các máy tính bị ảnh hưởng. Khi chúng tôi đang xác định các máy tính bị ảnh hưởng, chúng tôi yêu cầu PANDORA-CERT thực hiện một số điều tra ban đầu trên các tài liệu đính kèm trong email này. Các nhật ký duy nhất mà nhóm IT có thể thu thập từ PC tại thời điểm này là các tài liệu của Chrome và nhật ký email.
+
+Nếu nhiễm bệnh thực sự là do tải xuống mã độc, vui lòng trả lời email này ngay lập tức với liên kết tải xuống để chúng tôi có thể chặn các tải xuống tiếp theo, và cung cấp bất kỳ phát hiện nào về cách hoặc lý do tải xuống đã được thực hiện.
+
+Cảm ơn.
+
+Trân trọng,
+
+Oliver Reece
+Quản lý trợ lý, Nhóm IT
+Viện Nghiên cứu Quốc phòng WOOF
+
+Tài liệu đính kèm:  Chrome artifact Mail log files (History + workspace_mail_logs.xlsx)
+
+Giải thích:
+
+    Bối cảnh: Oliver thông báo rằng một nhân viên đã báo cáo máy tính bị chậm sau khi nhận được thông báo bảo mật, liên quan đến nhóm APT đang nhắm mục tiêu vào các viện nghiên cứu.
+    Yêu cầu: Họ yêu cầu PANDORA-CERT kiểm tra các tài liệu đính kèm (tài liệu Chrome và nhật ký email) để tìm kiếm bất kỳ dấu hiệu bất thường nào.
+    Mục tiêu: Nếu phát hiện nhiễm mã độc từ việc tải xuống, họ yêu cầu liên kết tải xuống ngay lập tức để chặn các tải xuống tiếp theo và giải thích về cách thức hoặc lý do tải xuống.
+
+
+*****************************************************************************************************************************************************************************
+
+Inject 03: Phân Tích Gói Mạng Thêm (1)
+
+Kính gửi PANDORA-CERT,
+
+Tôi là Oliver từ Nhóm WOOF-IT.
+
+Dựa trên thông tin bạn cung cấp, chúng tôi đã xác nhận rằng mã độc đã xâm nhập vào hệ thống của chúng tôi qua email. Tuy nhiên, liên kết tải xuống hiện không hợp lệ, và tệp đính kèm không được lưu trữ, vì vậy chúng tôi không thể thu thập mã độc.
+
+Vì mã độc đã được tải xuống qua liên kết, chúng tôi tin rằng có thể vẫn có khả năng lấy được tệp nhị phân qua phân tích gói mạng. Chúng tôi xin yêu cầu sự hỗ trợ của bạn trong việc này.
+
+Yêu cầu Thu Thập Mã Độc
+
+Chúng tôi kính đề nghị nhóm của bạn thực hiện phân tích sâu hơn về tệp gói mạng đã cung cấp và trích xuất bất kỳ mã độc nào có mặt. Vui lòng gửi mã độc trong một tệp zip với mật khẩu là "infected", cùng với hash md5 của nó. Chúng tôi chỉ cần thông tin cơ bản này hiện tại để xác nhận máy tính bị ảnh hưởng ban đầu, để chúng tôi có thể kiểm soát chúng.
+
+Chúng tôi đánh giá cao sự chú ý nhanh chóng của bạn về vấn đề này và cảm ơn sự hợp tác của bạn.
+
+Cảm ơn.
+
+Trân trọng,
+
+Oliver Reece
+Quản lý trợ lý, Nhóm IT
+Viện Nghiên cứu Quốc phòng WOOF
+
+Tài liệu đính kèm: pcap.pcapng
+
+Giải thích:
+
+    Tình hình: Oliver thông báo rằng mã độc đã xâm nhập qua email, nhưng liên kết tải xuống đã hết hạn và tệp đính kèm không còn lưu trữ được.
+    Yêu cầu: Họ yêu cầu PANDORA-CERT phân tích sâu hơn tệp gói mạng đính kèm (PCAP.ng) để trích xuất mã độc. Sau đó, gửi mã độc trong một tệp zip với mật khẩu "infected" và hash md5 của tệp đó.
+    Mục tiêu: Thông tin này sẽ giúp xác nhận máy tính bị ảnh hưởng ban đầu và thực hiện các biện pháp kiểm soát cần thiết.
+
+*************************************************************************************************************************************************************************
+ Inject 06: Identify the Actors Behind a Cyberattack
+Kính gửi PANDORA-CERT,
+
+Tôi là Oliver từ Đội ngũ WOOF-IT.
+
+Nhờ sự hỗ trợ của các bạn, chúng tôi đã thu được những thông tin quý giá về phần mềm độc hại và các mẫu tấn công. Chúng tôi dự định điều chỉnh chính sách bảo mật của mình tùy thuộc vào việc phần mềm độc hại có liên quan đến cuộc tấn công APT (Advanced Persistent Threat) hay không, hoặc nếu nó nhắm đến đối tượng rộng hơn.
+
+Chúng tôi đang tự hỏi liệu chúng tôi có phải là nạn nhân của cùng một nhóm như đã báo cáo tại hội nghị cách đây một tuần không. Xin vui lòng xem tài liệu lưu trữ bài trình bày đính kèm để tham khảo và so sánh các TTP (Tactics, Techniques, and Procedures) được nêu trong tài liệu đó với những gì đã được PANDORA-CERT quan sát tại Hội nghị An ninh mạng Quốc tế.
+
+https://conference.apdrill.asia
+
+Chúng tôi muốn nhờ sự trợ giúp của bạn trong việc xác định liệu phần mềm độc hại có liên quan đến một cuộc tấn công APT dựa trên thông tin mà bạn đã thu thập cho đến nay không. Nếu bạn kết luận rằng nó thực sự liên quan đến một nhóm APT, chúng tôi rất mong được biết danh tính của nhóm đó và lý do đứng sau đánh giá của bạn.
+
+Thông tin yêu cầu:
+
+    Xác định phần mềm độc hại chịu trách nhiệm cho cuộc tấn công
+    Lý do kết luận rằng nó liên quan đến cùng một nhóm tấn công
+
+Chúng tôi rất trân trọng sự chuyên môn và kinh nghiệm của đội ngũ bạn và cảm ơn sự hỗ trợ của bạn trong việc thu thập thông tin quan trọng này.
+
+Cảm ơn sự trợ giúp của bạn. Trân trọng,
+
+Oliver Reece Trợ lý Quản lý, Đội ngũ IT WOOF Viện Nghiên cứu Quốc phòng
+
+Bức thư này từ Oliver Reece, một trợ lý quản lý tại WOOF Defense Research Institute, gửi đến PANDORA-CERT, một tổ chức chuyên về bảo mật mạng. Oliver cảm ơn PANDORA-CERT vì sự hỗ trợ trong việc thu thập thông tin về phần mềm độc hại và các mẫu tấn công.
+
+Oliver đề cập rằng họ đang có kế hoạch điều chỉnh chính sách bảo mật dựa trên việc phần mềm độc hại có liên quan đến một cuộc tấn công APT hay không, hoặc nhắm đến một đối tượng rộng hơn.
+
+Họ yêu cầu PANDORA-CERT so sánh các thông tin về TTPs từ một hội nghị gần đây với những gì đã quan sát để xác định liệu phần mềm độc hại có liên quan đến cùng một nhóm tấn công APT không. Họ yêu cầu thông tin về danh tính nhóm tấn công và lý do đánh giá của PANDORA-CERT.
+
+Cuối thư, Oliver nhấn mạnh sự quan trọng của thông tin này và bày tỏ sự đánh giá cao đối với sự chuyên môn và hỗ trợ của PANDORA-CERT.
+
+
+*****************************************************************************************************************************************************************************
+Inject 07: Request the Issuance of Security Advisory on the APT Attack
+Kính gửi PANDORA-CERT,
+
+Tôi là Oliver từ Đội ngũ WOOF-IT.
+
+Chúng tôi rất trân trọng sự hợp tác của các bạn. Như các bạn có thể biết, phần mềm độc hại này được cho là một phần của cuộc tấn công APT nhằm vào các tổ chức. Do đó, các cuộc tấn công tương tự có thể ảnh hưởng không chỉ đến WOOF mà còn đến các tổ chức khác. Chúng tôi tin rằng PANDORA-CERT có thể giúp giảm thiểu tác động của nhóm tấn công này bằng cách phát hành một thông báo bảo mật.
+
+Do đó, chúng tôi xin kính đề nghị PANDORA-CERT phát hành một thông báo bảo mật về vấn đề này.
+
+Nhiều tổ chức, bao gồm cả tổ chức của chúng tôi, dựa vào các phương pháp phát hiện dựa trên chữ ký như YARA. Chúng tôi sẽ rất cảm kích nếu các bạn có thể đưa vào thông báo những mẫu độc quyền của phần mềm độc hại để hỗ trợ nỗ lực phát hiện của chúng tôi.
+
+Phần mềm độc hại được sử dụng trong sự cố này tương tự như phần mềm được trình bày tại “Hội nghị An ninh mạng Quốc tế”, nhưng được xác định là một biến thể. Điểm khác biệt duy nhất là các giá trị lệnh được sử dụng khi giao tiếp với máy chủ C&C đã thay đổi từ 0x2000 ~ 0x2004 thành 0x1000 ~ 0x1004. Ngoài ra, nó được xác nhận là giống nhau. Nội dung của một số báo cáo được coi là hữu ích cho việc soạn thảo thông báo bảo mật.
+
+Cảm ơn sự hỗ trợ của các bạn.
+
+Trân trọng,
+
+Oliver Reece Trợ lý Quản lý, Đội ngũ IT WOOF Viện Nghiên cứu Quốc phòng
