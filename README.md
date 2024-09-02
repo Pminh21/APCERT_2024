@@ -1,1 +1,1 @@
-# Diễn tập quốc tế  APCERT_2024
+# Diễn tập quốc tế  APCERT 2024
