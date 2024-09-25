@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../HTB_Write_up/HTB_writeup"
+		},
+		{
+			"name": "Pico_CTF",
+			"path": "../../Pico_CTF/Pico_CTF"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Write_up_portswigger"
+		}
+	],
+	"settings": {}
+}

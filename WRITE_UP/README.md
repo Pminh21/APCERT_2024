@@ -52,3 +52,27 @@ Tên người dùng của máy tính nghi ngờ nhiễm mã độc (100)
 - ![image 5](image/5.png)
 - tìm  ở downloads thấy đường dẫn tải xuống: C:\Users\user\Downloads\manual.zip. 
 => user
+-------------------------------------------------------------------------------------------------------------------------
+INJECT 03
+-------------------------------------------------------------------------------------------------------------------------
+Mã hash của tệp mã độc (100)
+Vui lòng thu thập tệp mã độc (không phải tệp nén).
+
+Mở file pcap ra. File->Export Object-> HTTP
+![image 6](image/6.png) 
+unzip (mật khẩu là share).
+![image 7](image/7.png)
+Ra được file manual.chm -> up lên virustotal
+![image 8](image/8.png)
+Trong đó BitDefender và Kaspersky đều nhận định là trojan.
+![image 9](image/9.png)
+mã hash: 860f86601bc18dd205a5edc0d57a658d
+-------------------------------------------------------------------------------------------------------------------------
+Địa chỉ của C2 Server được sử dụng để nhận thông tin (100)
+Trả lời địa chỉ của C2 server theo dạng: IP:PORT
+![image 10](image/10.png)
+43.201.253.28:5000
+-------------------------------------------------------------------------------------------------------------------------
+Kẻ tấn công đã duy trì sự hiện diện (persistence) (100)
+Hãy gửi đường dẫn của tệp chương trình mà kẻ tấn công sử dụng làm backdoor duy trì sự hiện diện.
+- Một trong những cách mở file chm là dùng 7zip
