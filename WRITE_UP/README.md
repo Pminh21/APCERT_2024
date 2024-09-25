@@ -178,7 +178,9 @@ Chọn 1 trong các đáp án
 4. ifconfig
 5. ls
 
-ls
+DIR
+
+![image 14](image/14.png)
 -------------------------------------------------------------------------------------------------------------------------
 Downloader (100)
 Sau khi được thực thi, mã độc đã tải về một tệp mã độc khác, hãy trả lời url được sử dụng để tải về.
